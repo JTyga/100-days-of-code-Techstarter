@@ -3,23 +3,14 @@
 ### Tag 0: 17. August 2023 
 Ideenfindung
 
-
 ### Tag 1: 18. August 2023
-##### (lösche mich oder kommentiere mich aus)
+Ideenfindung
 
-**Heutiger Fortschritt**: CSS Korrektur, Arbeit an der Canvas Funktionalität der App.
+### Tag 2: 19. August 2023 
+Mehr informationen zu Unity und Unreal Engine gesammelt und mich dann für die Unreal Engine entschieden.
 
-**Gedanken:** Ich habe mich wirklich schwer getan mit CSS/ wirklich mit CSS gekämpft, aber alles in allem habe ich das Gefühl, ich werde langsam besser darin. Canvas ist noch immer Neuland für mich, aber ich habe es geschafft einen Teil der grundlegenden Funktionalität zu verstehen.
+### Tag 3: 20. August 2023 
+Unreal Engine Heruntergeladen und Installiert.
 
-**Link zur Arbeit:** [Taschenrechner App](http://www.example.com)
-
-
-### Tag 1: 19. August 2023 (Beispiel 2)
-
-**Heutiger Fortschritt**: Ich bin einige Übungen auf freeCodeCamp durchgegangen.
-
-**Gedanken** Ich habe vor Kurzem mit dem Coden begonnen, und es ist ein tolles Gefühl, wenn ich nach vielfachen Ansätzen und mehreren investierten Stunden endlich einen Algorithmus gelöst bekomme.
-
-**Link(s) zur Arbeit**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+### Tag 4: 21. August 2023 
+Tutorials zur Unreal Engine angeschaut und erstes Projekt angefangen.

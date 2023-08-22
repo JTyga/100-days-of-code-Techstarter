@@ -14,3 +14,6 @@ Unreal Engine Heruntergeladen und Installiert.
 
 ### Tag 4: 21. August 2023 
 Tutorials zur Unreal Engine angeschaut und erstes Projekt angefangen.
+
+### Tag 5: 22. August 2023
+Erstes Level/Landscape erstellt, Texturen ausgewählt und Heruntergeladen.

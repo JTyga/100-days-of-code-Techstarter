@@ -22,7 +22,7 @@ Erstes Level/Landscape erstellt, Texturen ausgewählt und Heruntergeladen.
 Weitere Informationen zur Unreal Engine gesammelt.
 
 ### Tag 7: 24. August 2023 
-Erstes Level Landscape/ Berge ertellt 
+Erstes Level Landscape/ Berge erstellt
 
 ### Tag 8: 25. August 2023
 Erstes Level/Landscape Texturen bearbeitet und hinzugefügt.

@@ -13,7 +13,16 @@ Mehr informationen zu Unity und Unreal Engine gesammelt und mich dann für die U
 Unreal Engine Heruntergeladen und Installiert.
 
 ### Tag 4: 21. August 2023 
-Tutorials zur Unreal Engine angeschaut und erstes Projekt angefangen.
+Tutorials zur Unreal Engine angeschaut und erstes Test Projekt angefangen.
 
 ### Tag 5: 22. August 2023
 Erstes Level/Landscape erstellt, Texturen ausgewählt und Heruntergeladen.
+
+### Tag 6: 23. August 2023 
+Weitere Informationen zur Unreal Engine gesammelt.
+
+### Tag 7: 24. August 2023 
+Erstes Level Landscape/ Berge ertellt 
+
+### Tag 8: 25. August 2023
+Erstes Level/Landscape Texturen bearbeitet und hinzugefügt.
